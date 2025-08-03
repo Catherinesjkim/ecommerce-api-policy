@@ -1,4 +1,4 @@
-# Shopify API Access Control with OPA
+# E-commerce API Access Control with OPA
 ## PCI DSS requirements related to access control, specifically in Requirement 7 & 8
 
 This policy enforces:
